@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615d7a09-e497-4b67-8b4f-3e421d94b2d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_First_Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Third.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ass1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/sneha.pathak/IdeaProjects/Selenium_First_Project",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/sneha.pathak/IdeaProjects/Maven1Project",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -58,7 +49,7 @@
       <recent name="C:\Users\sneha.pathak\IdeaProjects\Selenium_First_Project\out\production\Selenium_First_Project" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.First">
+  <component name="RunManager">
     <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="First" />
       <module name="Selenium_First_Project" />
@@ -96,10 +87,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.First" />
         <item itemvalue="Application.Q5" />
         <item itemvalue="Application.Q1" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.First" />
         <item itemvalue="Application.Second" />
       </list>
     </recent_temporary>

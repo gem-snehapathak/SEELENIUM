@@ -6,6 +6,7 @@ public class Q3 {
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://www.tricentis.com/");
         driver.findElement(By.xpath("//*[local-name()=\"svg\" and @height=\"25\"]")).click();
+        Thread.sleep(3000);
         driver.quit();
 
 
